@@ -1,0 +1,193 @@
+Family
+the aunt	la tía
+the grandpa	el abuelo
+the boyfriend	el novio
+the grandparents	los abuelos
+the brother	el hermano
+the husband	el marido
+the brother-in-law	el cuóado
+the mom	la mama
+the cousins	los primos
+the mother	la madre
+the dad	el papa
+the mother-in-law	la suegra
+the daughter	la hija
+the nephew	el sobrino
+the daughter-in-law	la nuera
+the niece	la sobrina
+the family	la famila
+the relationships	las relaciones
+the father	el padre
+the sister	la hermana
+the father-in-law	el suegro
+the sister-in-law	la cuóada
+the fiancé	el prometido
+the son	el hijo
+the friend	el amigo
+the son-in-law	el yerno
+the girlfriend	la novia
+the uncle	el tío
+the grandma	la abuela
+the wife	la esposa
+Animals
+the animals	los animales
+the leopard	el leopardo
+the bear	el oso
+the llama	la llama
+the beaver	el castor
+the monkey	el mono
+the cat	el gato
+the mouse	el ratún
+the chimpanzee	el chimpancé
+the panda	el panda
+the deer	el venado
+the penguin	el pingüino
+the dog	el perro
+the pet	la mascota
+the elephant	el elefante
+the puppy	el cachorro
+the fish	el pez
+the rabbit	el conejo
+the fox	el zorro
+the rat	la rata
+the goat	la cabra
+the rhino	el rinoceronte
+the gorilla	el gorila
+the sheep	la oveja
+the hippopotamus	el hipopútamo
+the squirrel	la ardilla
+the horse	el caballo
+the tiger	el tigre
+the hyena	la hiena
+the whale	la ballena
+the kangaroo	el canguro
+the wolf	el lobo
+the kitten	el gatito
+the zebra	la cebra
+Colors
+black	negro
+purple	morado
+blue	azul
+red	rojo
+brown	marrún
+violet	violeta
+green	verde
+white	blanco
+orange	anaranjado
+yellow	amarillo
+pink	rosa
+Body Parts
+the ankle	el tobillo
+the eye	el ojo
+the arm	el brazo
+the eyebrow	la ceja
+the back	la espalda
+the eyelash	la pestaóa
+the belly	la barriga
+the eyelid	el párpado
+the brain	el cerebro
+the finger	el dedo
+the calf	la pantorrilla
+the fingernail	la uóa de dedo
+the chest	el pecho
+the foot	el pie
+the chin	la barbilla
+the forehead	la frente
+the ear	la oreja
+the mind	la mente
+the elbow	el codo
+the stomach	el estúmago
+the gum	la encía
+the nose	la nariz
+the hair	el cabello/ el pelo
+the rib	la costilla
+the hand	la mano
+the teeth	los dientes
+the head	la cabeza
+the thigh	el muslo
+the heel	el talún
+the throat	la garganta
+the knee	la rodilla
+the toe	el dedo de pie
+the leg	la pierna
+the toenail	la uóa del dedo de pie
+the lips	los labios
+the tongue	la lengua
+the mouth	la boca
+the wrist	la muóeca
+the neck	el cuello
+Weather
+the cloud	la nube
+itís windy	hace viento
+cloudy	nublado
+the rain	la lluvia
+cold	frío
+the snow	la nieve
+the flood	la inundaciún de agua
+the sun	el sol
+the fog	la neblina
+it is sunny	hace sol
+foggy	nebuloso
+the temperature	la temperatura
+hot	calor
+the thermometer	el termúmetro
+the humidity	la humedad
+the tornado	el tornado
+the hurricane	el huracán
+windy	ventoso
+Food
+the appetizer	el aperitivo
+the hamburger	la hamburguesa
+the avocado	el aguacate
+the hotdog	el hotdog
+the beef	la carne de res
+the lettuce	la lechuga
+the breakfast	el desayuno
+the lunch	el almuerzo
+the cauliflower	la coliflor
+the main dish	el plato / platillo principal
+the celery	el apio
+the milk	la leche
+the cheese	el queso
+the pork	el puerco
+the chicken	el pollo
+the potatoes	las papas
+the dessert	el postre
+the salad	la ensalada
+the dinner	la cena
+the sandwich	el sándwich / el bocadillo
+the egg	el huevo
+the soup	la sopa
+the fish (cooked)	el pescado
+the sugar	el azúcar
+the food	la comida
+the turkey	el pavo
+the french fries	las papas fritas
+the water	el agua
+the apricot	el albaricoque
+the lime	la lima
+the banana	la banana
+the mayonnaise	la mayonesa
+the beans	los frijoles
+the mustard	la mostaza
+the beet	la remolacha
+the nut	la nuez
+the butter	la mantequilla
+the peach	el durazno
+the candy	el dulce
+the peanut	el maní / el cacahuete
+the flour	la harina
+the peanut butter	la mantequilla de maní
+the grape	la uva
+the pear	la pera
+the honey	la miel
+the pineapple	la pióa
+the jam	la mermelada
+the popcorn	las palomitas de maíz
+the jelly	la jalea
+the radish	el rábano
+the juice	el jugo
+the raisin	la pasa
+the ketchup	el kéchup
+the tomato	el tomate
+the lemon	el limún	
